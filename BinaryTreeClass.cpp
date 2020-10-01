@@ -2,6 +2,7 @@
 using namespace std;
 
 template <typename T>
+// Defining user defined data type i.e. BinaryTreeNode
 class BinaryTreeNode {
 public:
     T data;
