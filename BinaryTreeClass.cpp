@@ -13,7 +13,7 @@ public:
         this->left = NULL;
         this->right = NULL;
     }
-}
+};
 
 #include <iostream>
 using namespace std;
