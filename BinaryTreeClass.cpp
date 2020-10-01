@@ -139,7 +139,7 @@ private:
     }
 public:
     bool hasData(int data) { return hasData(data, root); }
-};
+}
 
 #include "BinarySearchTree.h"
 
